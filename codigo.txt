@@ -1,0 +1,17 @@
+Configuração inicial
+
+config --global user.name "username"
+config --global user.email "email"
+
+Criando repositório
+- pelo site
+
+Conectar com a nuvem (upscreen)
+- vá até a pasta pelo cmd e cole o URL do clone:
+git clone https://github.com/geovanamarinello/cursoGit.git
+
+git status - ciclo de status
+git add * - quais arquivos 
+
+- sempre que alterar é necessário o git add*
+git commit -am "frase que representa" - fechando meu pacote de mudanças
